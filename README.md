@@ -2,6 +2,8 @@
 
 ZJU-ENCE 团队的胶水开发技能集，灵感来源：https://github.com/tukuaiai/vibe-coding-cn.git
 
+用于codex/claude的胶水编程skills，ai不自研新组件，而是优先复用社区已有成熟项目并做粘合拼接
+
 ## 包含技能
 
 ### glue-development-constraints
