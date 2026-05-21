@@ -1,0 +1,4 @@
+interface:
+  display_name: "胶水开发约束"
+  short_description: "确保胶水层开发只组合真实完整生产级依赖库实现而不重写核心逻辑"
+  default_prompt: "Use $glue-development-constraints to implement integration code that only composes complete production dependencies and never rewrites dependency-owned logic."

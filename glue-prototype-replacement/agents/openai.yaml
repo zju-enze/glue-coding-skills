@@ -1,0 +1,7 @@
+interface:
+  display_name: "原型替换治理"
+  short_description: "审查原型实现并制定成熟替代与退役方案"
+  default_prompt: "使用 $glue-prototype-replacement 审查当前原型实现，找出可由成熟社区能力替代的部分，并输出迁移与退役方案。"
+
+policy:
+  allow_implicit_invocation: true
